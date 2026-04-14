@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.0.9.5</version>
-    <url>https://github.com/LuvCii/RegMutipleTool/releases/download/v1.0.9.5/RegMutiple.zip</url>
+    <version>1.0.9.6</version>
+    <url>https://github.com/LuvCii/RegMutipleTool/releases/download/v1.0.9.6/RegMutiple.zip</url>
     <changelog>Public tool</changelog>
     <mandatory>true</mandatory>
 </item>
